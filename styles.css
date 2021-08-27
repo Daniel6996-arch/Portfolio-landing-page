@@ -1,0 +1,10 @@
+header{
+    background-color: grey;
+    display: flex;
+}
+ul{
+    display: flex;
+}
+li{
+    margin-right: 10vw;
+}
