@@ -5,12 +5,14 @@ body{
 header{
     background-color: grey;
     display: flex;
-    width: 100vw;
+    width: auto;
+    align-items: center;
 }
-ul{
+.nav{
     display: flex;
+    align-items: center;
 }
-li{
+.margin{
     margin-right: 10vw;
 }
 .container{
@@ -20,13 +22,18 @@ li{
 #about{
     text-align: center;
     width: 50vw;
-    border: 1px solid black;
-    border-radius: 50px;
 }
 #name{
     text-align: center;
     width: 50vw; 
 }
 .websites{
-    margin: 5vw;
+    text-align: center;
+}
+nav{
+    margin-left: 20vw;
+}
+img{
+    width: 30vw;
+
 }
