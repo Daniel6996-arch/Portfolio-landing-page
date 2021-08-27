@@ -1,10 +1,32 @@
+body{
+    margin: 0px
+
+}
 header{
     background-color: grey;
     display: flex;
+    width: 100vw;
 }
 ul{
     display: flex;
 }
 li{
     margin-right: 10vw;
+}
+.container{
+    margin: 3vw;
+    display: flex;
+}
+#about{
+    text-align: center;
+    width: 50vw;
+    border: 1px solid black;
+    border-radius: 50px;
+}
+#name{
+    text-align: center;
+    width: 50vw; 
+}
+.websites{
+    margin: 5vw;
 }
