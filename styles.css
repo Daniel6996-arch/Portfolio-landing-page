@@ -5,6 +5,7 @@ body{
 header{
     background-color: grey;
     display: flex;
+    flex-direction: column;
     width: auto;
     align-items: center;
 }
@@ -31,9 +32,25 @@ header{
     text-align: center;
 }
 nav{
-    margin-left: 20vw;
+    margin-left: 0vw;
 }
 img{
     width: 30vw;
-
+    height: 20vh;
+}
+.web h6{
+font-size: 1rem;
+}
+.web{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: left;
+}
+b{
+    font-style: italic;
+}
+.large{
+    font-size: 2rem;
+    color: grey;
 }
