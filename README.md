@@ -4,7 +4,7 @@
 ## link
 https://daniel6996-arch.github.io/Portfolio-landing-page/
 ## Description
-{This portfolio website is about my websites.}
+{This is a portfolio website is about my websites.}
 ## Setup/Installation Requirements
 *This website best works on latest version browsers.
 *This website is dependency free therefore depends on NO other code or application.
