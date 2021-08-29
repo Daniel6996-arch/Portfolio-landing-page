@@ -1,6 +1,6 @@
 body{
-    margin: 0px
-
+    margin: 0px;
+    background-color: lightgrey;
 }
 header{
     background-color: grey;
@@ -8,6 +8,7 @@ header{
     flex-direction: column;
     width: auto;
     align-items: center;
+    
 }
 .nav{
     display: flex;
@@ -19,6 +20,7 @@ header{
 .container{
     margin: 3vw;
     display: flex;
+    background-color: aqua;
 }
 #about{
     text-align: center;
@@ -30,13 +32,19 @@ header{
 }
 .websites{
     text-align: center;
+
+
+    background-color: aquamarine;
+    margin: 3vw;
+
 }
 nav{
     margin-left: 0vw;
 }
 img{
-    width: 30vw;
+    width: 25vw;
     height: 30vh;
+    box-shadow: 10px 10px 10px 3px grey;
 }
 .web h6{
 font-size: 1rem;
@@ -60,4 +68,14 @@ b{
 .img{
     width: 30vw;
     height: auto;
+    margin-top: 3vh;
+}
+.but{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    padding: 0.5vw 1.5vw 0.5vw 1.5vw;
+    border-radius: 50px;
+    background-color: black;
+    color: green;
 }
