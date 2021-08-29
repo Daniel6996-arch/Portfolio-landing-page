@@ -20,7 +20,7 @@ header{
 .container{
     margin: 3vw;
     display: flex;
-    background-color: aqua;
+    background-color: rgb(129, 214, 214);
 }
 #about{
     text-align: center;
@@ -34,7 +34,7 @@ header{
     text-align: center;
 
 
-    background-color: aquamarine;
+    background-color: rgb(62, 105, 91);
     margin: 3vw;
 
 }
