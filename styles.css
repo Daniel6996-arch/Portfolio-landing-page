@@ -79,3 +79,13 @@ b{
     background-color: black;
     color: green;
 }
+a{
+    text-decoration: none;
+}
+.web img:hover{
+    transform: scale(1.05);
+}
+.web a:hover{
+    color: darkblue;
+    text-decoration: underline;
+}
