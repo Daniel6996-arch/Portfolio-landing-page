@@ -20,7 +20,8 @@ header{
 .container{
     margin: 3vw;
     display: flex;
-    background-color: rgb(129, 214, 214);
+    background-color: rgb(53, 88, 88);
+    font-family: ;
 }
 #about{
     text-align: center;
